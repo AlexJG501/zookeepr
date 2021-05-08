@@ -126,6 +126,27 @@
         "An absolute UNIT"
       ],
       "id": "12"
+    },
+    {
+      "name": "Goof",
+      "species": "Zebra",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany",
+        "loving",
+        "goofy"
+      ],
+      "id": "13"
+    },
+    {
+      "name": "Tabby",
+      "species": "Hippo",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry",
+        "goofy"
+      ],
+      "id": "14"
     }
   ]
 }
